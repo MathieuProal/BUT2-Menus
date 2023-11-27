@@ -76,7 +76,7 @@ public class Info extends JFrame {
         
         for(int i=0; i<tab2.length;i++){
             String stat = String.valueOf(tab2[i]);
-            if(i<=tab2.length-2){
+            if(i<=tab2.length-1){
              morceau2 += stat + ", ";
             }else{
               morceau2 += "fin.";
