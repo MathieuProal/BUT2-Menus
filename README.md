@@ -4,7 +4,7 @@
 **Que fait ce code ?**
 Ce programme contient deux codes: un pour les utilisateurs, et un pour les développeurs.
 > Le premier crée un arbre de type JTree, dont les noeuds sont récupérés puis construits depuis une base de données.
-> Il existe plusieurs protocoles (détaillés plus bas), contenant chacun un identifiant, une tâche à accomplir sur le menu (un noeud à sélectionner), et la solution correcte attendue.
+> Il existe plusieurs protocoles [détaillés plus bas](https://github.com/MathieuProal/BUT2-Menus/blob/main/README.md#protocoles), contenant chacun un identifiant, une tâche à accomplir sur le menu (un noeud à sélectionner), et la solution correcte attendue.
 > Au début de chaque éxécution, une fenêtre s'ouvre pour demander à l'utilisateur quel protocole il souhaite utiliser.
 
 > Le second programme créé, depuis les résultats enregistrés à chaque test du premier programme, et après avoir demander à l'utilisateur le protocole à suivre, un camembert qui indique la part d'échecs et de réussite.
