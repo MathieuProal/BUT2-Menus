@@ -39,7 +39,7 @@ Voici la liste des différents fichiers sources et le programme auquel ils appar
   
 ### Menus 
 Pour ce projet, nous nous sommes appuyés sur 2 menus:
-* Celui de Photopea.com (alternative gratuite en ligne à Photoshop) (Premier menu) :
+* Celui de [Photopea](https://photopea.com) (alternative gratuite en ligne à Photoshop) (Premier menu) :
   ![diagramme_ptp](./diagrammemenu.png)
 * Et celui de l'outil capture d'écran (Second menu) :
   ![diagramme_cdc](./diagrammecapture.png) 
