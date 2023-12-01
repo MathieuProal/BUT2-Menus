@@ -3,7 +3,7 @@
 ### Explications
 **Que fait ce code ?**
 Ce programme contient deux codes: un pour les utilisateurs, et un pour les développeurs.
-> Le premier crée un arbre de type JTree, dont les noeuds sont récupérés puis construits depuis une base de données.
+> Le premier, destiné aux utilisateurs, crée un arbre de type JTree, dont les noeuds sont récupérés puis construits depuis une base de données.
 > Il existe plusieurs protocoles [détaillés plus bas](https://github.com/MathieuProal/BUT2-Menus/blob/main/README.md#protocoles), contenant chacun un identifiant, une tâche à accomplir sur le menu (un noeud à sélectionner), et la solution correcte attendue.
 > Au début de chaque éxécution, une fenêtre s'ouvre pour demander à l'utilisateur quel protocole il souhaite utiliser.
 
@@ -11,6 +11,7 @@ Ce programme contient deux codes: un pour les utilisateurs, et un pour les déve
 > Un bouton basculer permet de visualiser un second camembert, qui affiche le nombre de sous-menus visités à chaque test.
 > Tout cela permet de savoir si l'organisation du menu testé est optimale, et que les options sont là où l'utilisateur les cherche.
 
+[Voir les différentes photos du programme](https://github.com/MathieuProal/BUT2-Menus/blob/main/README.md#annexes)
 
 ### Utilisation
 **Comment lancer les différents programmes ?**
@@ -70,3 +71,6 @@ Voici les différents protocoles ainsi que le menu utilisé et le chemin vers l'
 * Modifiez avec Paint 3D _(ptcmacp)_
   * Second menu
   * Edition > Modifier avec Paint 3D
+
+
+ ### Annexes
