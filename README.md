@@ -6,8 +6,10 @@ Ce programme contient deux codes: un pour les utilisateurs, et un pour les déve
 > Le premier, destiné aux utilisateurs, crée un arbre de type JTree, dont les noeuds sont récupérés puis construits depuis une base de données.
 > Il existe plusieurs protocoles [détaillés plus bas](https://github.com/MathieuProal/BUT2-Menus/blob/main/README.md#protocoles), contenant chacun un identifiant, une tâche à accomplir sur le menu (un noeud à sélectionner), et la solution correcte attendue.
 > Au début de chaque éxécution, une fenêtre s'ouvre pour demander à l'utilisateur quel protocole il souhaite utiliser.
+> Après avoir choisi le protocole, l'arbre s'ouvre et l'utilisateur doit sélectionner une feuille. 
+> Dès qu'il clique sur une feuille, la fenêtre se ferme et le programme s'arrête.
 
-> Le second programme crée, depuis les résultats enregistrés à chaque test du premier programme, et après avoir demander à l'utilisateur le protocole à suivre, un camembert qui indique la part d'échecs et de réussites.
+> Le second programme crée, depuis les résultats enregistrés à chaque test du premier programme, et après avoir demandé à l'utilisateur le protocole à suivre, un camembert qui indique la part d'échecs et de réussites.
 > Un bouton basculer permet de visualiser un second camembert, qui affiche le nombre de sous-menus visités à chaque test.
 > Tout cela permet de savoir si l'organisation du menu testé est optimale, et que les options sont là où l'utilisateur les cherche.
 
@@ -74,3 +76,17 @@ Voici les différents protocoles ainsi que le menu utilisé et le chemin vers l'
 
 
  ### Annexes
+> Choix du protocole (utilisateur et développeur)
+> [choix du protocole](./choixprotocole.PNG)
+
+> Affichage de l'arbre (utilisateur)
+> [affichage de l'arbre](./jtree.PNG)
+
+> Affichage de l'arbre avec sous-menus ouverts (utilisateur)
+> [affichage de l'arbre ouvert](./jtree2.PNG)
+
+> Affichage du premier camembert (développeur)
+> [Affichage du premier camembert](./camembert.PNG)
+
+> Affichage du second camembert (développeur)
+> [Affichage du second camembert](./camembert2.PNG)
