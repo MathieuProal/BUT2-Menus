@@ -77,16 +77,16 @@ Voici les différents protocoles ainsi que le menu utilisé et le chemin vers l'
 
  ### Annexes
 > Choix du protocole (utilisateur et développeur)
-> [choix du protocole](./choixprotocole.PNG)
+[choix du protocole](./choixprotocole.PNG)
 
 > Affichage de l'arbre (utilisateur)
-> [affichage de l'arbre](./jtree.PNG)
+[affichage de l'arbre](./jtree.PNG)
 
 > Affichage de l'arbre avec sous-menus ouverts (utilisateur)
-> [affichage de l'arbre ouvert](./jtree2.PNG)
+[affichage de l'arbre ouvert](./jtree2.PNG)
 
 > Affichage du premier camembert (développeur)
-> [Affichage du premier camembert](./camembert.PNG)
+[Affichage du premier camembert](./camembert.PNG)
 
 > Affichage du second camembert (développeur)
-> [Affichage du second camembert](./camembert2.PNG)
+[Affichage du second camembert](./camembert2.PNG)
